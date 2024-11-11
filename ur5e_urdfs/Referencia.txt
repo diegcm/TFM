@@ -1,0 +1,1 @@
+culurciello. (2024). pybullet_ur5_gripper [Repositorio de GitHub]. https://github.com/culurciello/pybullet_ur5_gripper/tree/master/robots/urdf
